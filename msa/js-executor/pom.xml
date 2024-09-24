@@ -73,6 +73,7 @@
                         <configuration>
                             <nodeVersion>v16.20.2</nodeVersion>
                             <yarnVersion>v1.22.17</yarnVersion>
+                            <nodeDownloadRoot>https://npmmirror.com/mirrors/node/</nodeDownloadRoot>
                         </configuration>
                     </execution>
                     <execution>
